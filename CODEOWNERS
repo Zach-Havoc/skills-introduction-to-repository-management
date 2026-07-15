@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Zach-Havoc
+/src/backend/database.py      @Zach-Havoc
+/src/backend/routers/auth.py  @Zach-Havoc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Zach-Havoc
